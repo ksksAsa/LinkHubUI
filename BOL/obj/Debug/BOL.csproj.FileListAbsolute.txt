@@ -1,0 +1,10 @@
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\bin\Debug\BOL.dll
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\bin\Debug\BOL.pdb
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\obj\Debug\BOL.dll
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\obj\Debug\BOL.pdb
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\bin\Debug\BOL.dll.config
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\bin\Debug\EntityFramework.dll
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\bin\Debug\EntityFramework.xml
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BOL\bin\Debug\EntityFramework.SqlServer.xml

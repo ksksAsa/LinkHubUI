@@ -1,0 +1,11 @@
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\bin\Debug\BLL.dll
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\bin\Debug\BLL.pdb
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\obj\Debug\BLL.dll
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\obj\Debug\BLL.pdb
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\bin\Debug\BOL.dll
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\bin\Debug\DAL.dll
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\bin\Debug\BOL.pdb
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\bin\Debug\DAL.pdb
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\bin\Debug\EntityFramework.dll
+C:\Users\serafeim\Documents\Visual Studio 2015\Projects\MvcProjects\Udemy3Tier\LinkHubUI\BLL\bin\Debug\EntityFramework.xml
